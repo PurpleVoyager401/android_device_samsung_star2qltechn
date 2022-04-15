@@ -26,3 +26,6 @@ TARGET_OTA_ASSERT_DEVICE := star2qltechn
 
 # Kernel
 TARGET_KERNEL_CONFIG := star2qlte_chn_open_defconfig
+
+# Properties
+TARGET_PRODUCT_PROP += $(DEVICE_PATH)/product.prop
