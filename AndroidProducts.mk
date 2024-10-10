@@ -16,9 +16,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/dot_star2qltechn.mk
+    $(LOCAL_DIR)/lineage_star2qltechn.mk
 
 COMMON_LUNCH_CHOICES := \
-	dot_star2qltechn-user \
-	dot_star2qltechn-userdebug \
-	dot_star2qltechn-eng
+	lineage_star2qltechn-user \
+	lineage_star2qltechn-userdebug \
+	lineage_star2qltechn-eng
