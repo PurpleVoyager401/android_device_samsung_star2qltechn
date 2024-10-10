@@ -1,6 +1,6 @@
-# Device Tree for Samsung Galaxy S9+ (star2qltechn)
+# Device Tree for Samsung Galaxy S9 Plus (star2qltechn)
 
-The Samsung Galaxy S9+ (codenamed "star2qltechn") is a top of the line device from Samsung. It was announced in February 2018 and was released in March 2018.
+The Samsung Galaxy S9 Plus (codenamed _"star2qltechn"_) is a high-end smartphone from Samsung. It was announced in February 2018. Release date was March 2018.
 
 ## Device specifications
 
@@ -9,9 +9,9 @@ The Samsung Galaxy S9+ (codenamed "star2qltechn") is a top of the line device fr
 | Chipset                 | Qualcomm SDM845 Snapdragon 845                                  |
 | CPU                     | Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver) |
 | GPU                     | Adreno 630                                                      |
-| Memory                  | 4 GB                                                            |
-| Shipped Android Version | 8.0 (OneUI 2.1)                                                 |
-| Storage                 | 64/128 GB UFS 2.1                                               |
+| Memory                  | 6 GB                                                            |
+| Shipped Android Version | Android 8.0 (Oreo), upgradable to Android 10, One UI 2.5        |
+| Storage                 | 64/128/256 GB UFS 2.1                                           |
 | SIM                     | Dual SIM (Nano-SIM, dual stand-by)                              |
 | MicroSD                 | Up to 400 GB                                                    |
 | Battery                 | 3500 mAh Li-Ion (non-removable)                                 |
@@ -28,4 +28,5 @@ The Samsung Galaxy S9+ (codenamed "star2qltechn") is a top of the line device fr
 
 ![Samsung Galaxy S9+](https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s9-plus-ice-blue.jpg)
 
-Copyright (C) 2021 AOSPK.
+Copyright (C) 2021 AOSPK  
+Copyright (C) 2024 The LineageOS Project
