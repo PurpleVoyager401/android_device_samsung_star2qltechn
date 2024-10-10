@@ -31,4 +31,15 @@ PRODUCT_DEVICE := star2qltechn
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-G9650
 PRODUCT_MANUFACTURER := samsung
+
 PRODUCT_GMS_CLIENTID_BASE := android-samsung
+
+BUILD_FINGERPRINT := "samsung/star2qltezh/star2qltechn:10/QP1A.190711.020/G9650ZHU9FWC3:user/release-keys"
+
+PRODUCT_BUILD_PROP_OVERRIDES += \
+    PRODUCT_NAME=star2qltezh \
+    PRIVATE_BUILD_DESC="star2qltezh-user 10 QP1A.190711.020 G9650ZHU9FWC3 release-keys"
+
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.build.PDA=G9650ZHU9FWC3 \
+    ro.build.fingerprint=samsung/star2qltezh/star2qltechn:10/QP1A.190711.020/G9650ZHU9FWC3:user/release-keys
